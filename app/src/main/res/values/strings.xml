@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="app_str">My App</string>
+    <string name="app_str2">イースト菌</string>
 </resources>
